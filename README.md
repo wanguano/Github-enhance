@@ -18,7 +18,8 @@
 
 ### 1.代码折叠脚本【GitHub Code Folding】
 
-使用场景：当你在 Github 中浏览源码中，可以非常高效的折叠代码，<font color='red'>什么类型代码都可以折叠</font>
+- 使用场景：当你在 Github 中浏览源码中，可以非常高效的折叠代码，<font color='red'>什么类型代码都可以折叠</font>
+- [安装](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-code-folding.user.js)
 
 ![](img/1.gif)
 
@@ -28,7 +29,8 @@
 
 ### 2.显示代码颜色【GitHub code colors】
 
-使用场景：在**代码颜色旁边添加颜色样式**的脚本
+- 使用场景：在**代码颜色旁边添加颜色样式**的脚本
+- [安装](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-code-colors.user.js)
 
 - 它适用于注释预览和代码页
 
@@ -38,8 +40,9 @@
 
 ### 3.复制代码段【copy code snippet】
 
-使用场景：需要复制代码块时会方便很多，不需要全部选中<font color='red'>一键复制代码块</font> 
+- 使用场景：需要复制代码块时会方便很多，不需要全部选中<font color='red'>一键复制代码块</font> 
 
+- [安装](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-copy-code-snippet.user.js)
 - 将鼠标悬停在代码段上，从而将副本添加到剪贴板按钮
 
 ![](img/3.gif)
@@ -48,8 +51,9 @@
 
 ### 4.GitHub图像预览【 image preview】
 
-使用场景： 需要预览仓库中的图像，不需要点击去查看，<font color='red'>直接预览图片</font>
+- 使用场景： 需要预览仓库中的图像，不需要点击去查看，<font color='red'>直接预览图片</font>
 
+- [安装](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-image-preview.user.js)
 - 该脚本增加了预览图像（png，jpg，jpeg，gif，tif，tiff，bmp，webp和svg）
 
 ![](img/4.gif)
@@ -60,7 +64,8 @@
 
 ### 5.Github目录导航【able of contents】
 
-使用场景：当你进入一个仓库时会将标题目录，添加到页面中，方便锚点跳转
+- 使用场景：当你进入一个仓库时会将标题目录，添加到页面中，方便锚点跳转
+- [安装](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-toc.user.js)
 
 - 当进入仓库时，会自动添加一个**可拖动**的弹出窗口。创建TOC之前，至少必须有**三个锚点**
 
@@ -75,7 +80,7 @@
 
 ### 6.Github镜像访问和加速下载
 
-使用场景：克隆仓库均<font color='red'>速800K</font> 和 下载Releases时速度非常快<font color='red'>均速4M</font> 
+- 使用场景：克隆仓库均<font color='red'>速800K</font> 和 下载Releases时速度非常快<font color='red'>均速4M</font> 
 
 - **优化了脚本默认不展开镜像网站，并且将最新版 Github 网站<font color='red'>头部居中</font>了**
 

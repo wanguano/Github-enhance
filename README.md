@@ -20,7 +20,7 @@
 
 使用场景：当你在 Github 中浏览源码中，可以非常高效的折叠代码，<font color='red'>什么类型代码都可以折叠</font>
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/1.gif)
+![](img/1.gif)
 
 
 
@@ -32,7 +32,7 @@
 
 - 它适用于注释预览和代码页
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/2.gif)
+![](img/2.gif)
 
 
 
@@ -42,7 +42,7 @@
 
 - 将鼠标悬停在代码段上，从而将副本添加到剪贴板按钮
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/3.gif)
+![](img/3.gif)
 
 
 
@@ -52,7 +52,7 @@
 
 - 该脚本增加了预览图像（png，jpg，jpeg，gif，tif，tiff，bmp，webp和svg）
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/4.gif)
+![](img/4.gif)
 
 
 
@@ -69,7 +69,7 @@
   - 彼此之间在一秒钟之内按g+ t，以切换目录视图。
   - 彼此之间在一秒钟之内按g+ r，以重置TOC位置。
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/5.gif)
+![](img/5.gif)
 
 
 
@@ -79,9 +79,9 @@
 
 - **优化了脚本默认不展开镜像网站，并且将最新版 Github 网站<font color='red'>头部居中</font>了**
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/6.gif)
+![](img/6.gif)
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/6.1.gif)
+![](img/6.1.gif)
 
 
 
@@ -96,7 +96,7 @@
 - 下载地址：[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-ntp-icon)
 - 使用场景： 增强GitHub代码的检查和探索，这个插件很多人都知道就不详细说了
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/7.gif)
+![](img/7.gif)
 
 
 
@@ -105,7 +105,7 @@
 - 下载地址： [Enhanced GitHub](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd?utm_source=chrome-ntp-icon)
 - 使用场景： 显示仓库大小，每个文件的大小，下载链接和复制文件内容的选项
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/8.png)
+![](img/8.png)
 
 
 
@@ -114,7 +114,9 @@
 - 下载地址：[github-file-icon](https://chrome.google.com/webstore/detail/file-icon-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe?utm_source=chrome-ntp-icon)
 - 特定于文件类型的图标替换原始文件图标。这改善了GitHub，GitLab等上的视觉识别能力
 
-<img src="https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/20200717153823.png" style="zoom:67%;" />
+<img src="img/8.png" style="zoom:67%;" />
+
+
 
 
 
@@ -132,7 +134,7 @@
 
 ### 导入脚本
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/11.png)
+![](img/11.png)
 
-![](https://mingcloudpic.oss-cn-beijing.aliyuncs.com/img/20200717152800.png)
+![](img/12.png)
 
